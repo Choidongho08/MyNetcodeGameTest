@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NetworkBootstrap.unity
+    guid: 45f9e7b6bbc04584ab845ff2525d4349
+  - enabled: 1
+    path: Assets/Scenes/JoinScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 2a6827a33796550449d875b75e0e4025
+  m_configObjects: {}
